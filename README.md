@@ -1,6 +1,6 @@
 Ratchet Socket.io Yii2
 ===============================
-# Натсройки
+# Настройки
 
 ### Install
 - Install composer packages `composer update`
